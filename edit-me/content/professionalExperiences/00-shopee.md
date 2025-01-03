@@ -1,15 +1,9 @@
 ---
-organization: The Daily Observer
+organization: Shopee Singapore
 titles:
-  - title: Senior Editor
-    startDate: '2021'
-  - title: Editor
-    startDate: '2018'
-    endDate: '2021'
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue.
-  - title: Assistant Editor
-    startDate: '2016'
-    endDate: '2018'
+  - title: Software Engineer
+    startDate: 'Aug 2021'
+    endDate: 'present'
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue.
 ---
 
